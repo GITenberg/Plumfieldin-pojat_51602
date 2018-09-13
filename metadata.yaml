@@ -1,0 +1,42 @@
+_repo: Plumfieldin-pojat_51602
+_version: 0.0.1
+alternative_title: Jo's boy's. Finnish
+contributor:
+  translators:
+  - agent_name: Voipio, Aarni
+    gutenberg_agent_id: '46484'
+    url: http://www.gutenberg.org/2009/agents/46484
+  - agent_name: Voipio, Elma
+    gutenberg_agent_id: '46483'
+    url: http://www.gutenberg.org/2009/agents/46483
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, Louisa M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_issued: '2016-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51602'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Boarding schools -- Fiction'
+- !lcsh 'Family life -- New England -- Fiction'
+- !lcsh 'New England -- Fiction'
+- GITenberg
+title: Plumfieldin pojat
+url: http://www.gutenberg.org/ebooks/51602
