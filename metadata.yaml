@@ -1,5 +1,5 @@
 _repo: Plumfieldin-pojat_51602
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Jo's boy's. Finnish
 contributor:
   translators:
@@ -9,6 +9,9 @@ contributor:
   - agent_name: Voipio, Elma
     gutenberg_agent_id: '46483'
     url: http://www.gutenberg.org/2009/agents/46483
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, Louisa May
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51602#Plumfieldin-pojat
 gutenberg_issued: '2016-03-30'
 gutenberg_type: Text
 identifiers:
